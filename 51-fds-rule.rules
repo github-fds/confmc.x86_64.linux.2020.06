@@ -1,0 +1,14 @@
+# rule for CON-FMC-FX3 of Future Design Systems (www.future-ds.com)
+# /etc/udev/rules.d/51-fds-rule.rules
+#
+# TAG+="uaccess"       for currently-logged-in (physical) user instead of all users.
+# MODE="0666"          gives universal read/write access to whatever matches this line
+# OWNER="YOU_USER_ID"
+#
+# do not forget to run
+# $ sudo udevadm control --reload-rules
+# $ sudo service udev restart
+# $ sudo udevadm trigger
+#
+SUBSYSTEM=="usb", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="04b4", ATTRS{idProduct}=="00f3", MODE=="0666"
+SUBSYSTEM=="usb_device", ATTRS{idVendor}=="04b4", ATTRS{idProduct}=="00f3", MODE=="0666"

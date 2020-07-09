@@ -1,0 +1,62 @@
+FUTURE DESIGN SYSTEMS SOFTWARE END-USER LICENSE AGREEMENT FOR CON-FMC.
+[Note that HARDWARE of CON-FMC is not corved by this agreement and there is separate warranty terms and conditions.]
+
+This Software End-User License Agreement ("Agreement") is a legally enforceable agreement between you (either an individual or a single entity) ("End-User") and Future Design Systems, Inc. ("FDS"), regarding the use of the Licensed Software. By installing, copying or otherwise using the Licensed Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install, copy or use the Software; however, you may return it to FDS or the third party distributor, dealer or supplier ("Distributor") from whom you purchased the Licensed Software for a full refund.
+
+1. Definitions
+
+1.1 "FDS" means Future Design Systems, Inc.
+
+1.2 "End-User" means an individual or a single entity that uses the Software supplied by FDS.
+
+1.3 "Software" means only the FDS software program(s) supplied by FDS herewith, and corresponding documentation, associated media, printed materials, and online or electronic documentation.
+
+1.4 "Trial Version" means a version of the Software, so identified, to be used only to review, demonstrate and evaluate the Software for a limited time period. The Trial Version may have limited features, may lack the ability for the End-User to save the end product, and will cease operating after a predetermined amount of time due to an internal mechanism within the Trial Version.
+
+2. Scope of Agreement 
+
+2.1 FDS will sell or license the Software and provide documentation and services to as described in this Agreement.
+
+2.2 Each license is a nontransferable license to use the Software solely for End-User's internal business purposes. (i) The End-User may install and use one copy of the Software on a single computer at a time and only by one user at a time. (ii) The End-User may also store or install a copy of the Software on a storage device, such as a network server, used only to install or run the Software on your other computers over an internal network; however, the End-User must acquire and dedicate a license for each separate computer on which the Software is installed or run from the storage device.  A license for the Software may not be used concurrently on different computers.
+
+2.3 The term of perpetual licenses granted herein shall be continuous unless the license is sooner terminated in accordance with Article.4 of this Agreement, whereupon End-User shall be granted to use the Licensed Software for three (3) years from the date of sale to End-User with exception that the term of the Trial license will be as specified in the applicable License file.
+
+2.4 End-User acknowledges that the scope of the licenses granted under this Agreement does not permit End-User (and End-User shall not allow any third party) to: (i) decompile, disassemble, reverse engineering or attempt to reconstruct, identify or discover any source code, underlying ideas, underlying user interface techniques or algorithms of the Licensed Software by any means whatever, or disclose any of the foregoing; (ii) use the Licensed Software for the benefit of third parties or allow third parties to use the Licensed Software without approval of FDS in (iii) disclose the results of any benchmarking of the Licensed Software (whether or not obtained with FDS's assistance) to third parties.
+
+3. Warranty
+
+3.1 Limited Warranty
+(i) Except with respect to the Trial Version, FDS warrants that, for a period of thirty (30) days from the date of delivery (as evidenced by a copy of your receipt): (a) when used with a recommended hardware configuration, the Software will perform in substantial conformance with the documentation supplied with the Software; and (b) the physical media on which the Software is furnished will be free from defects in materials and workmanship under normal use.
+
+(ii) FDS warrants that the Software, any associated updates when properly installed, will substantially conform to the functional specifications set forth in the applicable user manual and documentations during the warranty period. The warranty period is one (1) year from the date of sale to End-User.
+
+(iii) If End-User would happen to find, during the warranty period, that Software is not to conform to the specifications, End-User must provide written notification of this nonconformity to FDS or Distributor.
+
+3.2 Software Updates
+Except with respect to the Trial Version, FDS will release the updates of the Software part as free of charge during the warranty period. FDS or Distributor will provide one copy of each applicable Software update in this agreement.
+
+3.3 Invalid Warranty
+This warranty shall not be valid if Software enhancements have been subjected to abuse, misuse, accident, alteration, neglect, unauthorized 	repair, unauthorized installation, or exposed to conditions beyond the 	manufacturer's environmental, power or operating constraints.
+
+4. Terms of Termination
+This Agreement shall remain in effect until terminated as described below.
+
+4.1 Either party may terminate this Agreement at any time upon thirty (30) days with written notice if the other party is in material breach of this Agreement and fails to cure the breach within the thirty (30) days notice period.
+
+4.2 FDS may terminate any Software license granted under this Agreement immediately upon written notice if End-User exceeds the scope of the license granted under this Agreement or otherwise fails to comply with the provisions under Agreement. Otherwise, FDS may terminate the license only if End-User fails to pay for the license when due and such failure continues for a period of thirty (30) days after written notice from FDS. Upon termination of any license under this Agreement, End-User shall cease all use of the Software covered by the license and 	return to FDS.
+
+5. Controlling Law
+This Agreement shall be governed by and construed under the laws of the Republic of Korea.
+
+6. Notices
+6.1 All notices from End-User to FDS must be in writing and sent by registered or certified mail, return receipt requested, or international equivalent, or by facsimile or electronic mail (receipt confirmed) using following contact information.
+
+6.2 FDS and other trademarks contained in the Software are trademarks or registered trademarks of FDS Systems Co., Ltd. in the Republic of Korea and/or other countries. Third party trademarks, trade names, product names and logos may be the trademarks or registered trademarks of their respective owners. You may not remove or alter any trademark, trade names, product names, logo, copyright or other proprietary notices, legends, symbols or labels in the Software. This agreement does not authorize you to use FDS's or its licensors' names or any of their respective trademarks.
+
+    Phone: +82-42-864-0211
+    Fax: +82-42-864-0212
+    E-mail: contact@future-ds.com / sales@future-ds.com / support@future-ds.com
+    Web: www.future-ds.com
+
+    Future Design Systems, Inc.
+    Address: Faculty Wing F723, KAIST Munji Campus, 193 Mnuji-Ro, Yuseong-Gu, Daejeon 34051, Korea

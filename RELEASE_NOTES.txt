@@ -1,0 +1,46 @@
+[Release notes for CON-FMC 2020.06]
+June 30, 2020
+
+Copyright (c) 2020 by Future Design Systems, Inc.
+All rights reserved.
+
+Release announcements in CON-FMC 2020.06
+
+* Python3 binding included
+* Python2 and Python3 added
+
+Compatibility issues with CON-FMC 2019.05
+
+[Release notes for CON-FMC 2019.05]
+May 15, 2019
+
+Copyright (c) 2019 by Future Design Systems, Inc.
+All rights reserved.
+
+Release announcements in CON-FMC 2019.05
+
+* Python binding (pyconfmc.py) included
+
+Compatibility issues with CON-FMC 2019.05
+
+* API for TRX_AHB and TRX_AXI has been modified, such that 'extern con_Handle_t handle;'
+  has been removed and each API (BfmWrite() and BfmRead()) has new argument of hdl.
+* API directory name changed fro 'drv' to 'api'.
+* FPGA type of 'k7' for Zynq7000 has been change to 'z7'.
+
+[Release notes for CON-FMC 2019.02]
+Feburary 10, 2019
+
+Copyright (c) 2019 by Future Design Systems, Inc.
+All rights reserved.
+
+Release announcements in CON-FMC 2019.02
+
+* Python binding (pyconfmc.py) included
+
+Compatibility issues with CON-FMC 2019.02
+
+* API for TRX_AHB and TRX_AXI has been modified, such that 'extern con_Handle_t handle;'
+  has been removed and each API (BfmWrite() and BfmRead()) has new argument of hdl.
+* API directory name changed fro 'drv' to 'api'.
+* FPGA type of 'k7' for Zynq7000 has been change to 'z7'.
