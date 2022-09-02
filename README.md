@@ -11,6 +11,27 @@ See '[EULA.txt](EULA.txt)' file.
 ## How to install
 See '*Section 3 Software installation*' of '[doc/FDS-TD-2018-03-001-CON-FMC-User-Manual.pdf](doc/FDS-TD-2018-03-001-CON-FMC-User-Manual.pdf)'.
 
+### Requriements
+
+The CON-FMC pkg uses LibUSB package To use CON-FMC API in your program, you should have `Libusb`
+
+* To check LibUSB is already installed, put below command.
+
+``` bash
+  $ ldconfig -p | grep libusb
+    libusbmuxd.so.6 (libc6,x86-64) => /lib/x86_64-linux-gnu/libusbmuxd.so.6
+    libusb-1.0.so.0 (libc6,x86-64) => /lib/x86_64-linux-gnu/libusb-1.0.so.0
+    libusb-1.0.so (libc6,x86-64) => /lib/x86_64-linux-gnu/libusb-1.0.so
+```
+
+*  If it is not installed (nothing shown), you can install it as follows.
+``` bash
+  $ sudo apt-get install libusb-1.0.0-dev
+```
+
+To see more informations for other OS such as CentOS or Windows. Please refer `3.1.1 Install LibUsb` section in the [manual](doc/FDS-TD-2018-03-001-CON-FMC-User-Manual.pdf)
+
+
 ### Linux
  1. Get the package from GitHub, where '*2020.06*' stands for version<br>
    ```$ git clone https://github.com/github-fds/confmc.x86_64.linux.2020.06.git```
